@@ -1,0 +1,163 @@
+[
+  {
+    "type": "paitings",
+    "details": [
+      {
+        "url": "src/assets/img/paintings/krishna/1.jpg",
+        "seq": 1,
+        "uniqueName": "krishna",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "width": "300",
+        "height": "400",
+        "prize": "100",
+        "currency": "$",
+        "isGallary": true
+      },
+      {
+        "url": "src/assets/img/paintings/krishna/1.jpg",
+        "seq": 1,
+        "uniqueName": "krishna",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "width": "300",
+        "height": "400",
+        "prize": "100",
+        "currency": "$"
+      },
+      {
+        "url": "src/assets/img/paintings/bird/Galary.jpg",
+        "seq": 1,
+        "uniqueName": "bird",
+        "name": "Lavender, Roses and the Ocean, Mediterranean Landscape Painting",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "width": "300",
+        "height": "400",
+        "prize": "100",
+        "currency": "$",
+        "isGallary": true
+      },
+      {
+        "url": "src/assets/img/paintings/bird/1.jpg",
+        "seq": 1,
+        "uniqueName": "bird",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "prize": "100",
+        "currency": "$"
+      },
+      {
+        "url": "src/assets/img/paintings/bird/2.png",
+        "seq": 2,
+        "uniqueName": "bird",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "prize": "100",
+        "currency": "$"
+      },
+      {
+        "url": "src/assets/img/paintings/eye/1.jpg",
+        "seq": 1,
+        "uniqueName": "eye",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "width": "300",
+        "height": "400",
+        "prize": "100",
+        "currency": "$",
+        "isGallary": true
+      },
+      {
+        "url": "src/assets/img/paintings/lady/1.jpg",
+        "seq": 1,
+        "uniqueName": "lady",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "width": "300",
+        "height": "400",
+        "prize": "100",
+        "currency": "$",
+        "isGallary": true
+      },
+      {
+        "url": "src/assets/img/paintings/motherlove/1.jpg",
+        "seq": 1,
+        "uniqueName": "motherlove",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "width": "300",
+        "height": "400",
+        "prize": "100",
+        "currency": "$",
+        "isGallary": true
+      },
+      {
+        "url": "src/assets/img/paintings/flowers/1.jpg",
+        "seq": 1,
+        "uniqueName": "flowers",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "width": "300",
+        "height": "400",
+        "prize": "100",
+        "currency": "$",
+        "isGallary": true
+      },
+      {
+        "url": "src/assets/img/paintings/hills/1.jpg",
+        "seq": 1,
+        "uniqueName": "hills",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "width": "300",
+        "height": "400",
+        "prize": "100",
+        "currency": "$",
+        "isGallary": true
+      },
+      {
+        "url": "src/assets/img/paintings/seasons/1.jpg",
+        "seq": 1,
+        "uniqueName": "seasons",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "width": "300",
+        "height": "400",
+        "prize": "100",
+        "currency": "$",
+        "isGallary": true
+      },
+      {
+        "url": "src/assets/img/paintings/nature/1.jpg",
+        "seq": 1,
+        "uniqueName": "nature",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "width": "320",
+        "prize": "100",
+        "currency": "$",
+        "isGallary": true
+      },
+      {
+        "url": "src/assets/img/paintings/flemingo/1.jpg",
+        "seq": 1,
+        "uniqueName": "flemingo",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "width": "320",
+        "prize": "100",
+        "currency": "$",
+        "isGallary": true
+      },
+      {
+        "url": "src/assets/img/paintings/flemingo/2.jpg",
+        "seq": 2,
+        "uniqueName": "flemingo",
+        "type": "Paintings",
+        "dimentions": "21.3 W x 25.6 H x 1.8 D in",
+        "currency": "$"
+      }
+    ]
+  }
+]
